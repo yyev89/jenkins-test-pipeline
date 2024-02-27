@@ -18,4 +18,4 @@ This Jenkinsfile defines a multi-stage pipeline for setting up and testing an Ap
 
 This snippet assumes the script `check-codes-apachelog` is already present in the same location as the Jenkinsfile. You'll need to provide the script and adjust the path if it's located elsewhere. Additionally, ensure the script has proper permissions and functionalities for error checking as intended.
 
-# AI generated description with Gemini
+*AI generated description with Gemini*
