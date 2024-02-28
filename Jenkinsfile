@@ -1,5 +1,7 @@
 pipeline {
-    agent any
+    agent {
+        label 'centos-agent'
+    }
     stages {
         stage('Update') {
             steps {
